@@ -67,7 +67,7 @@ http://localhost:8501
 
 ---
 
-##🐳 Run with Docker
+## 🐳 Run with Docker
 
 #### 1️⃣ Build Docker Image
 docker build -t commandhub .
@@ -93,7 +93,7 @@ CommandHub/
 └── commands.log            # Stores command history (generated at runtime)
 
 
-###⚡ Future Improvements
+### ⚡ Future Improvements
 
 Add user authentication
 
